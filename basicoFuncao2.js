@@ -58,6 +58,6 @@ console.log(somarTd)
 
 console.log("Prédio")
 
-const userName = 'Matheus'
+const userName = 'Pedro'
 const age = 30 
 console.log(`O nome do garoto é ${userName}, e ele tem ${age} anos`)
